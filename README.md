@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fausto David Hernández Jasso</h1>
-<h3 align="center">Computer Science and Mathematics Student</h3>
+<h3 align="center">Computer Scientist and Mathematician</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
